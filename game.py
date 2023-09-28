@@ -18,3 +18,4 @@ while True:
     else:
         print(f'your guess is correct, you succeed in {count} iterations. The number is {number}')
         break #the game is over
+    #jflsdlblefblif;ubgv;uf
